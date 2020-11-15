@@ -1,0 +1,26 @@
+h1 {
+
+}
+
+h2 {
+    color: blue;
+    padding: 10px;
+
+}
+
+.cover-image {
+    width: 100%;
+    height: auto;
+
+}
+
+.profile-image {
+    border-radius: 50%;
+    border: solid black 5px;
+    width: 200px;
+    height: auto;
+}
+
+.contact {
+    text-align: center;
+}
